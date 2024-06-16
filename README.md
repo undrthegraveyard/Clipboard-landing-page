@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+![](/design/Final%20Design%20Mobile%20Preview.png)
+
 
 ### Links
 
