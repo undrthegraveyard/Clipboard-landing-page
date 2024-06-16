@@ -40,7 +40,7 @@ Users should be able to:
 ## Author
 
 - Website - [Shivam Agarwal](https://www.shivamagarwal.au)
-- Frontend Mentor - [@undrthegraveyard](https://www.frontendmentor.io/profile undrthegraveyard)
+- Frontend Mentor - [@undrthegraveyard](https://www.frontendmentor.io/profile/undrthegraveyard)
 - Twitter - [@shivam_agarwaal](https://twitter.com/shivam_agarwaal)
 
 
